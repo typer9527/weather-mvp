@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppleWeather</string>
+    <string name="temp_unit">℃</string>
+    <string name="aqi">AQI指数</string>
+    <string name="pm25">PM2.5指数</string>
+    <string name="air">空气质量</string>
+    <string name="rain">降雨量: </string>
+    <string name="press">气压: </string>
+    <string name="body_temp">体感温度: </string>
+    <string name="wind">风速: </string>
+    <string name="visibility">能见度: </string>
+    <string name="wet">相对湿度: </string>
+</resources>

@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="weather" />
+    <version value="1" />
+    <list>
+        <mapping class="com.yl.appleweather.db.Province" />
+        <mapping class="com.yl.appleweather.db.City" />
+        <mapping class="com.yl.appleweather.db.County" />
+        <mapping class="com.yl.appleweather.db.CountyWeather" />
+    </list>
+</litepal>
